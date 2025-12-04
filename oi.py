@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+
 # Criando comentário que preste no código ###
 
 """Dependendo da lingua configurada no ambiente o programa
