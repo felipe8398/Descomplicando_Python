@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 # Criando comentário que preste no código ###
 
@@ -42,7 +43,9 @@ if current_language == "pt_BR":
     message = "Olá Mundo !"
 elif current_language == "it_IT":
     message = "Ciao, Mondo !"
+elif current_language == "en_US":
+    message = "Hello World !!!"
 else:
-    message = "É...deu BO"
+    message = "Não sei que lingua é essa, toma Olá Mundo ! mesmo "
 
 print(message)
